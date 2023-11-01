@@ -1,14 +1,12 @@
 <div align="center">
 <h1> 👋Hi, welcome! to my GitHub👋 <h1/>
 </div>
-  
-- 👀 I’m interested in ...
-
-- 🌱 I’m currently learning ...
-
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 How to reach me ...
+<div>
+<p>- 👀 I’m interested in ...<p/>
+<p>- 🌱 I’m currently learning ...<p/>
+<p>- 💞️ I’m looking to collaborate on ...<p/>
+<p>- 📫 How to reach me ...<p/>
+</div>
 
 
 <!---
