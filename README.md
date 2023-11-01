@@ -1,12 +1,11 @@
 <div>
 <h1> 👋Hi, welcome! to my GitHub👋 <h1/>
-</div>
-<div>
 <p>- 👀 I’m interested in ...<p/>
 <p>- 🌱 I’m currently learning ...<p/>
 <p>- 💞️ I’m looking to collaborate on ...<p/>
 <p>- 📫 How to reach me ...<p/>
 </div>
+
 
 
 <!---
