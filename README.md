@@ -1,7 +1,7 @@
-
-<h1> **👋Hi, welcome! to my GitHub👋** <h1/>
-
-
+<div align="center">
+<h1> 👋Hi, welcome! to my GitHub👋 <h1/>
+</div>
+  
 - 👀 I’m interested in ...
 
 - 🌱 I’m currently learning ...
